@@ -16,13 +16,13 @@ An independent research project.
 </details>
 
 ## About
-Bowler Selection for Bangladesh Cricket Team from past data. 4 machine learning algorithms Logistic Regression, SVM, Decision Tree and Naive Bayes have been used for solving the problem. 
+Bowler Selection for Bangladesh's International Cricket Team from past data. Four machine learning algorithms Logistic Regression, SVM, Decision Tree and Naive Bayes have been used for solving the problem. 
 
 ## Dataset
 We manually extracted all our information from a website called espncricinfo. This is the best-known origin we can gather our information from. We collected our data in five different sections which include Batsmen, Bowlers, All-Rounders, Captains, and Wicket-Keepers. We listed matches played in the 2017-2018 session in the Dhaka Premier Division Cricket League for batsman, bowler, and all-rounder. We primarily go through all the matches that were played in that session and collect all the information by inputting them manually in Excel file by their playing position.
 
 ## Goal
-Predict the bowlers for the international cricket team of Bangladesh.
+Pick the bowlers for the international cricket team of Bangladesh.
 
 ## Algorithms
 - Logistic Regression
@@ -41,7 +41,7 @@ Predict the bowlers for the international cricket team of Bangladesh.
 - Dataset Preparation
 - EDA
 - Supervised Learning
-- 
+
 ## Contribution
 - Monirul Islam Pavel
 
