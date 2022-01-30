@@ -5,7 +5,6 @@ An independent research project.
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    
     <li>About</li>
     <li>Dataset</li>
     <li>Goal</li>
@@ -13,7 +12,6 @@ An independent research project.
     <li>Libraries</li>
     <li>Contribution</li>
     <li>License</li>
-
   </ol>
 </details>
 
@@ -22,11 +20,11 @@ Bowler Selection for Bangladesh Cricket Team from past data. 4 machine learning 
 
 ## Dataset
 We manually extracted all our information from a website called espncricinfo. This is the best-known origin we can gather our information from. We collected our data in five different sections which include Batsmen, Bowlers, All-Rounders, Captains, and Wicket-Keepers. We listed matches played in the 2017-2018 session in the Dhaka Premier Division Cricket League for batsman, bowler, and all-rounder. We primarily go through all the matches that were played in that session and collect all the information by inputting them manually in Excel file by their playing position.
-## Goal
 
+## Goal
+Predict the bowlers for the international cricket team of Bangladesh.
 
 ## Algorithms
-
 - Logistic Regression
 - Naive Bayes
 - Support Vector Machine(SVM) 
@@ -46,8 +44,8 @@ We manually extracted all our information from a website called espncricinfo. Th
 - 
 ## Contribution
 - Monirul Islam Pavel
-## License
 
+## License
 This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href="LICENSE.md">license</a> and <a href="LICENSE.DISCLAIMER.md">disclaimer</a>.
 
 
